@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(90deg,  #0367fd, #144999);
+    background-size: auto 100vh;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    color: aliceblue;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+}
+.menu li{
+    list-style: none;
+    color: aliceblue;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.site-title,
+.site-subtitle{
+    text-align: center;
+}
+
+.site-subtitle{
+    font-style: italic;
+}
